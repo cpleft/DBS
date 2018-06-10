@@ -1,0 +1,1 @@
+main_ctrl.cpp impleAbout_DBS.cpp travel_system.hpp -o travel -I/usr/include/mysql -L/usr/lib/x86_64-linux-gnu -lmysqlclient -lpthread -lz -lm -lrt -ldl

@@ -1,0 +1,10 @@
+usage:
+travle [-q flight|bus|hotel|reservation] [-r custName resvType keywd] 
+
+options:
+  -q query about flight, bus, hotel, reservation.
+  -r reserve flight, bus, hotel.
+      custName: [a-z].
+      resvType: 1 for flight, 2 for hotel, 3 for bus.
+      keywd: flightNum or hotel location or bus location.
+
